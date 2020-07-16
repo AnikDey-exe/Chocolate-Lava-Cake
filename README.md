@@ -27,4 +27,6 @@ Bake until the sides are firm and the centers are soft, about 13 minutes. Let st
 
 Links:
 
-https://github.com/AnikDey-exe/Chocolate-Lava-Cake
+1. https://github.com/AnikDey-exe/Chocolate-Lava-Cake
+
+2. https://anikdey-exe.github.io/Chocolate-Lava-Cake/
